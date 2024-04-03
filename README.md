@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umairius
-- 👀 I’m interested in Flutter, Firebase, Tensorflow
-- 🌱 I’m currently learning Full Stack Flutter development
-- 💞️ I’m looking to collaborate on projects of mobile and desktop development
+- 👀 I make scalable backends in Go, Node, Python
+- 🌱 I’m currently working as a Backend Engineer in Vyro.ai
+- 💞️ I’m looking to collaborate on projects of Go(Fiber,Chi), Python or anything that requires creative problem solving
 - 📫 How to reach me umairnasar4@gmail
 
 <!---
